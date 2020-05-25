@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/AR_GUI_07.4.unity
+  isLoaded: 1
+  isActive: 1
