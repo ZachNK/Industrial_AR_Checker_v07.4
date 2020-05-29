@@ -1,4 +1,4 @@
-# Industrial_AR_Checker_v07.4
+# Industrial_AR_Handbook_v07.4
 
 증강현실 콘텐츠와 UI/UX를 기반으로 발전소의 발전기 및 변압기 등 각종 발전설비 시설물에 대한 육안 점검용 서비스(Beta) 개발.
 
