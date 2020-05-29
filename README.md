@@ -5,7 +5,7 @@
 -기업명(예정): G-Lab (지랩) 
 -강남규, 이정근(대표) 외 3명 
 
-[![AR Checker alpha](https://j.gifs.com/nxWjxD.gif)](https://www.youtube.com/watch?v=MJFMLKXa2yo&t=2s)
+[![AR Handbook alpha](https://j.gifs.com/nxWjxD.gif)](https://www.youtube.com/watch?v=MJFMLKXa2yo&t=2s)
 
 (↑ click gif image to watch full video)
 
